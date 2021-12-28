@@ -2,7 +2,4 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Docker & Kubernetes.
 
-<!---
-geokopa/geokopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a senior software engineer and engineering manager with over 11+ years of experience in application design and development innovative software solutions to enhance business productivity. Highly experienced in all aspects of the software development lifecycle and end-to-end project management, from concept through to development and delivery. Have strong communication, leadership, and technical background.
